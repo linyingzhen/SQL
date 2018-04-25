@@ -1,0 +1,14 @@
+CREATE TABLE Persons (
+	ID int,
+	Name varchar(255)
+);
+
+CREATE TABLE Cars (
+	ID int,
+	Name varchar(255)
+);
+
+CREATE TABLE Colors (
+	ID int,
+	Name varchar(255)
+);
